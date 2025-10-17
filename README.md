@@ -1,2 +1,5 @@
 # Calculadora-Digital
-Minha calculadora
+Calculadora Digital
+
+Projeto "Calculadora Digital" — uma calculadora simples para operações básicas (adição, subtração, multiplicação, divisão).
+
